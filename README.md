@@ -13,7 +13,7 @@
 <a href="https://twitter.com/aisymr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aisymr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aisy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aisy" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aisy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aisy" height="30" width="40" /></a>
-<a href="https://fb.com/aisy muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aisy muhammad" height="30" width="40" /></a>
+<a href="https://fb.com/@aisymr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aisy muhammad" height="30" width="40" /></a>
 <a href="https://instagram.com/aisymr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aisymr" height="30" width="40" /></a>
 <a href="https://medium.com/@aisymuhammadrozsidhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aisy" height="30" width="40" /></a>
 </p>
